@@ -1,6 +1,6 @@
 ---
-title: "첨단 AI 취약점 동향조사 및 글로벌 대응체계 마련(RS-2025-02213015)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "첨단 AI 취약점 동향조사 및 글로벌 대응체계 마련"
+excerpt: "식품의약품안전처 재원, 보건산업진흥원((RS-2025-02213015) <br/><img src='/images/advanced AI.png'>"
 collection: Projects
 ---
 
@@ -12,4 +12,6 @@ collection: Projects
  - 해외 의료 규제 당국 및 주요 연구 기관과의 정보 교류를 위한 기술 워크숍 개최
 
 ---
+2025년도 조사결과
 [취약점 조사보고서(2023-2025) (PDF)](./files/분석대상 논문 초록정리.pdf)
+[의료기기 인공지능 관련 규제 및 표준 조사보고서(2025) (PDF)]()
