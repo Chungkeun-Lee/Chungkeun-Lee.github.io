@@ -27,9 +27,9 @@ remote_theme: academicpages/academicpages.github.io
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #"Your Sidebar Name"
+  name             : "Chungkeun Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Medical Device R&D Center"
+  bio              : "Medical Device R&D Center | Department of Medical Device Development"
   location         : #"Earth"
   employer         : "Seoul National University Bundang Hospital"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4863-776X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
