@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
+title: "첨단 AI 취약점 동향조사 및 글로벌 대응체계 마련(RS-2025-02213015)"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: Projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+○ (첨단 AI 취약점 동향조사)
+ - 글로벌 표준 및 규제 조사·분석 및 신규 기술 동향조사 수행
+○ (글로벌 대응체계 마련)
+ - 국내 AI 디지털의료제품이 국제적 기준에 맞게 안전하게 운영될수록, 정립한 레드팀 운영 체계와 글로벌 표준·규제간 호환성 분석·검토
+ - 신규 기술을 반영한 레드팀 전략 등 효과적인 취약점 분석과 대응체계 마련
+ - 해외 의료 규제 당국 및 주요 연구 기관과의 정보 교류를 위한 기술 워크숍 개최
+
+---
+[취약점 조사보고서(2023-2025) (PDF)](./files/분석대상 논문 초록정리.pdf)
