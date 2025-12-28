@@ -1,4 +1,7 @@
-# Academic Pages
+# 본 블로그는 식품의약품안전처의 재원으로 첨단의료 AI 안전성·신뢰성 향상 기술개발 사업 지원(과제번호 : RS-2025-02213015)에 의하여 이루어진 것으로 연차별 조사결과를 공유하기 위해 마련되었습니다.
+
+
+<!-- # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
@@ -93,4 +96,4 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+</div> -->
